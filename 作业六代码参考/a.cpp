@@ -26,7 +26,7 @@ struct lyz
 
 int main()
 {
-    cin >> n; run(i, 1, n) cin >> s; // Ð¦ËÀ£¬´¦ÀíÃ»ÓÃÊý¾Ý
+    cin >> n; run(i, 1, n) cin >> s; // ÃÂ¦Ã‹Ã€Â£Â¬Â´Â¦Ã€Ã­ÃƒÂ»Ã“ÃƒÃŠÃ½Â¾Ã
     run(i, 1, n) f[i] = i;
     while(cin >> s)
     {
